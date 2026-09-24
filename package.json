@@ -8,7 +8,7 @@
 	"keywords": ["pi", "pi-agent", "coding-agent", "web-search", "web-scrape", "sitemap", "crw", "extension", "ai-tools"],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/us/pi-crw.git"
+		"url": "git+https://github.com/fastcrw/pi-crw.git"
 	},
 	"engines": {
 		"node": ">=20"
